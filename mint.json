@@ -1,0 +1,85 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Tailly UI",
+  "logo": {
+    "dark": "/logo/dark.png",
+    "light": "/logo/light.png"
+  },
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#0069ED",
+    "light": "#4D9CFF",
+    "dark": "#0050B4"
+  },
+  "topbarLinks": [
+    {
+      "name": "Documentation",
+      "url": "https://mintlify.com/docs"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Star Us on Github",
+    "url": "https://github.com/mintlify/starter"
+  },
+  "anchors": [
+    {
+      "name": "Templates",
+      "icon": "file",
+      "url": "api-reference"
+    },
+    {
+      "name": "Components",
+      "icon": "box",
+      "url": "https://mintlify.com"
+    },
+    {
+      "name": "Community",
+      "icon": "users",
+      "url": "https://mintlify.com"
+    },
+    {
+      "name": "Github",
+      "icon": "github",
+      "url": "https://mintlify.com/community"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": ["introduction", "features"]
+    },
+    {
+      "group": "Actions",
+      "pages": ["actions/button", "actions/context", "actions/dropdown", "actions/popover"]
+    },
+    {
+      "group": "Data display",
+      "pages": ["display/accordion", "display/avatar", "display/badge", "display/code", "display/collapsible", "display/hovercard"]
+    },
+    {
+      "group": "Data input",
+      "pages": ["introduction", "features"]
+    },
+    {
+      "group": "Feedback",
+      "pages": ["introduction", "features"]
+    },
+    {
+      "group": "Layout",
+      "pages": ["introduction", "features"]
+    },
+    {
+      "group": "Navigation",
+      "pages": ["introduction", "features"]
+    },
+    {
+      "group": "Other",
+      "pages": ["introduction", "features"]
+    }
+  ],
+  "footerSocials": {
+    "twitter": "https://twitter.com/mintlify",
+    "github": "https://github.com/mintlify",
+    "linkedin": "https://www.linkedin.com/company/mintsearch"
+  }
+}
