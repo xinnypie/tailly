@@ -14,12 +14,12 @@
   "topbarLinks": [
     {
       "name": "Documentation",
-      "url": "https://mintlify.com/docs"
+      "url": "https://tailly.art/"
     }
   ],
   "topbarCtaButton": {
     "name": "Star Us on Github",
-    "url": "https://github.com/mintlify/starter"
+    "url": "https://github.com/PieKit/tailify"
   },
   "anchors": [
     {
@@ -54,11 +54,11 @@
     },
     {
       "group": "Data display",
-      "pages": ["display/accordion", "display/avatar", "display/badge", "display/code", "display/collapsible", "display/hovercard"]
+      "pages": ["display/accordion", "display/avatar", "display/badge", "display/code", "display/collapsible", "display/hovercard", "display/toast"]
     },
     {
       "group": "Data input",
-      "pages": ["introduction", "features"]
+      "pages": ["input/checkbox", "input/datepicker", "input/text", "input/radio", "input/select", "input/slider", "input/switch", "input/textarea", "input/timepicker", "input/upload"]
     },
     {
       "group": "Feedback",
